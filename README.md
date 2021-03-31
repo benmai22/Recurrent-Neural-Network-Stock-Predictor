@@ -1,2 +1,4 @@
 # Recurrent-Neural-Network-Stock-Predictor
-For this project, I decided to use a csv file that contains the Google Stock Prices during a duration of time. With this, I was able to use data analysis and machine learning tools in order to train a model.  
+Libraries Used: Numpy, Pandas, Sklearn, Matplotlib, TensorFlow
+
+In this project, I used a CSV file containing the Google stock price history to train a model that can be used to help predict the prices. At the end of this file, I was able to get to a point where an individual can compare the "Actual vs Predicted Price" on a chart so that they can see if their model needs any improvements.
